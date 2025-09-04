@@ -1,0 +1,73 @@
+/* Background color of the whole page */
+body {
+    height: 1000vh;
+    background: linear-gradient(to bottom, rgb(100, 100, 200) 44%, rgb(300,800,100) 9%); 
+    color: #000000;            /* default text color: black */
+    font-family: Arial, sans-serif;
+    text-align: center;        /* optional: center all text */
+}
+
+/* Headings */
+h1 {
+    color: #ff4500; /* orange-red */
+    background-color: #ffffe0; /* light yellow */
+    padding: 10px;
+}
+
+h2 {
+    color: #006400; /* dark green */
+    background-color: #fafad2; /* light goldenrod yellow */
+    padding: 8px;
+}
+
+/* Paragraphs */
+p {
+    color: #00008b; /* dark blue */
+    background-color: #e6e6fa; /* lavender */
+    padding: 5px;
+}
+
+/* Ordered list items */
+ol li {
+    color: #8b008b; /* dark magenta */
+    background-color: #f5f5dc; /* beige */
+    margin: 5px 0;
+    padding: 5px;
+}
+
+/* Button */
+button {
+    color: white;
+    background-color: #ff6347; /* tomato red */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#button2 {
+    position: absolute;
+    top: 9000px;
+    left: 150px;
+}
+
+.button-container {
+    margin: 20px 0; /* space above and below button */
+}
+
+.robux-button {
+    background-color: #ff0000; /* button color */
+    color: #ffffff;            /* text color */
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.robux-button:hover {
+    background-color: #cc0000; /* hover effect */
+}
+
+.image-container {
+    margin-top: 20px; /* space above image */
+}
