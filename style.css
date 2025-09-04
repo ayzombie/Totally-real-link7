@@ -37,6 +37,7 @@ ol li {
 
 /* Button */
 button {
+    
     color: white;
     background-color: #ff6347; /* tomato red */
     border: none;
@@ -56,8 +57,18 @@ button {
     padding: 10x 20px;
     font-size: 15px;
     cursor: pointer;
-    top: 100px;
-
+    top: 330px;
+    left: 3px;
+}
+#button4 {
+    position: absolute;
+    color: green;
+    background-color: rgb(300,250,20);
+    border: none;
+    padding: 10x 20px;
+    font-size: 17px;
+    cursor: pointer;
+    top: 850px;
 }
 
 .button-container {
