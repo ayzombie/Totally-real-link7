@@ -49,20 +49,21 @@ button {
     top: 9000px;
     left: 150px;
 }
+#button3 {
+    color: blue;
+    background-color: rgb(300,250,20);
+    border: none;
+    padding: 10x 20px;
+    font-size: 15px;
+    cursor: pointer;
+    top: 100px;
+
+}
 
 .button-container {
     margin: 20px 0; /* space above and below button */
 }
 
-.robux-button {
-    background-color: #ff0000; /* button color */
-    color: #ffffff;            /* text color */
-    font-size: 18px;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-}
 
 .robux-button:hover {
     background-color: #cc0000; /* hover effect */
