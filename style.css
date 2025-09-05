@@ -110,73 +110,598 @@ ol li {
     color: black;
 }
 #button14 {
-    background-color: cyan;
-    color: black;
+    background-color: red;
+    color: orange;
 }
 #button15 {
     background-color: cyan;
-    color: black;
+    color: pink;
 }
 #button16 {
-    background-color: cyan;
+    background-color: blue;
     color: black;
 }
 #button17 {
-    background-color: cyan;
-    color: black;
+    background-color: black;
+    color: white;
 }
 #button18 {
-    background-color: cyan;
-    color: black;
+    background-color: rgb(300,300,200);
+    color: grey;
 }
 #button19 {
-    background-color: cyan;
-    color: black;
+    background-color: lightcoral;
+    color: cyan;
 }
 #button20 {
-    background-color: cyan;
+    background-color: lightgrey;
     color: black;
 }
 #button21 {
-    background-color: cyan;
-    color: black;
+    background-color: lightgoldenrodyellow;
+    color: darkblue;
 }
 #button22 {
-    background-color: cyan;
+    background-color: darkcyan;
     color: black;
 }
 #button23 {
-    background-color: cyan;
-    color: black;
+    background-color: lightcyan;
+    color: darkblue;
 }
 #button24 {
-    background-color: cyan;
-    color: black;
+    background-color: lightcyan;
+    color: cyan;
 }
 #button25 {
     background-color: cyan;
-    color: black;
+    color: coral;
 }
 #button26 {
-    background-color: cyan;
-    color: black;
+    background-color: aliceblue;
+    color: blue;
 }
 #button27 {
-    background-color: cyan;
-    color: black;
+    background-color: rgb(0,0,0);
+    color: grey;
 }
 #button28 {
-    background-color: cyan;
-    color: black;
+    background-color: red;
+    color: coral;
 }
 #button29 {
-    background-color: cyan;
+    background-color: chocolate;
     color: black;
+    font-weight: lighter;
 }
 #button30 {
-    background-color: cyan;
+    background-color: beige;
+    color: black;
+    font-weight: bolder;
+}
+#button31 {
+    background-color: red;
+    color: white;
+}
+#button32 {
+    background-color: green;
+    color: white;
+}
+#button33 {
+    background-color: blue;
+    color: white;
+}
+#button34 {
+    background-color: orange;
     color: black;
 }
+#button35 {
+    background-color: purple;
+    color: white;
+}
+#button36 {
+    background-color: pink;
+    color: black;
+}
+#button37 {
+    background-color: yellow;
+    color: black;
+}
+#button38 {
+    background-color: brown;
+    color: white;
+}
+#button39 {
+    background-color: teal;
+    color: white;
+}
+#button40 {
+    background-color: lime;
+    color: black;
+}
+#button41 {
+    background-color: navy;
+    color: white;
+}
+#button42 {
+    background-color: gold;
+    color: black;
+}
+#button43 {
+    background-color: silver;
+    color: black;
+}
+#button44 {
+    background-color: maroon;
+    color: white;
+}
+#button45 {
+    background-color: olive;
+    color: white;
+}
+#button46 {
+    background-color: indigo;
+    color: white;
+}
+#button47 {
+    background-color: violet;
+    color: black;
+}
+#button48 {
+    background-color: coral;
+    color: black;
+}
+#button49 {
+    background-color: turquoise;
+    color: black;
+}
+#button50 {
+    background-color: black;
+    color: white;
+}
+#button51 {
+    background-color: red;
+    color: white;
+}
+#button52 {
+    background-color: green;
+    color: white;
+}
+#button53 {
+    background-color: blue;
+    color: white;
+}
+#button54 {
+    background-color: orange;
+    color: black;
+}
+#button55 {
+    background-color: purple;
+    color: white;
+}
+#button56 {
+    background-color: pink;
+    color: black;
+}
+#button57 {
+    background-color: yellow;
+    color: black;
+}
+#button58 {
+    background-color: brown;
+    color: white;
+}
+#button59 {
+    background-color: teal;
+    color: white;
+}
+#button60 {
+    background-color: lime;
+    color: black;
+}
+#button61 {
+    background-color: navy;
+    color: white;
+}
+#button62 {
+    background-color: gold;
+    color: black;
+}
+#button63 {
+    background-color: silver;
+    color: black;
+}
+#button64 {
+    background-color: maroon;
+    color: white;
+}
+#button65 {
+    background-color: olive;
+    color: white;
+}
+#button66 {
+    background-color: indigo;
+    color: white;
+}
+#button67 {
+    background-color: violet;
+    color: black;
+}
+#button68 {
+    background-color: coral;
+    color: black;
+}
+#button69 {
+    background-color: turquoise;
+    color: black;
+}
+#button70 {
+    background-color: black;
+    color: white;
+}
+#button71 {
+    background-color: crimson;
+    color: white;
+}
+#button72 {
+    background-color: darkgreen;
+    color: white;
+}
+#button73 {
+    background-color: royalblue;
+    color: white;
+}
+#button74 {
+    background-color: darkorange;
+    color: black;
+}
+#button75 {
+    background-color: mediumpurple;
+    color: white;
+}
+#button76 {
+    background-color: hotpink;
+    color: black;
+}
+#button77 {
+    background-color: khaki;
+    color: black;
+}
+#button78 {
+    background-color: sienna;
+    color: white;
+}
+#button79 {
+    background-color: darkcyan;
+    color: white;
+}
+#button80 {
+    background-color: chartreuse;
+    color: black;
+}
+#button81 {
+    background-color: midnightblue;
+    color: white;
+}
+#button82 {
+    background-color: peru;
+    color: black;
+}
+#button83 {
+    background-color: lightgray;
+    color: black;
+}
+#button84 {
+    background-color: firebrick;
+    color: white;
+}
+#button85 {
+    background-color: darkolivegreen;
+    color: white;
+}
+#button86 {
+    background-color: slateblue;
+    color: white;
+}
+#button87 {
+    background-color: orchid;
+    color: black;
+}
+#button88 {
+    background-color: salmon;
+    color: black;
+}
+#button89 {
+    background-color: aquamarine;
+    color: black;
+}
+#button90 {
+    background-color: dimgray;
+    color: white;
+}
+#button91 {
+    background-color: tomato;
+    color: white;
+}
+#button92 {
+    background-color: forestgreen;
+    color: white;
+}
+#button93 {
+    background-color: dodgerblue;
+    color: white;
+}
+#button94 {
+    background-color: darkgoldenrod;
+    color: white;
+}
+#button95 {
+    background-color: mediumvioletred;
+    color: white;
+}
+#button96 {
+    background-color: lightpink;
+    color: black;
+}
+#button97 {
+    background-color: palegoldenrod;
+    color: black;
+}
+#button98 {
+    background-color: peru;
+    color: black;
+}
+#button99 {
+    background-color: steelblue;
+    color: white;
+}
+#button100 {
+    background-color: black;
+    color: white;
+}
+#button101 {
+    background-color: crimson;
+    color: white;
+}
+#button102 {
+    background-color: darkgreen;
+    color: white;
+}
+#button103 {
+    background-color: royalblue;
+    color: white;
+}
+#button104 {
+    background-color: darkorange;
+    color: black;
+}
+#button105 {
+    background-color: mediumvioletred;
+    color: white;
+}
+#button106 {
+    background-color: hotpink;
+    color: black;
+}
+#button107 {
+    background-color: khaki;
+    color: black;
+}
+#button108 {
+    background-color: sienna;
+    color: white;
+}
+#button109 {
+    background-color: darkcyan;
+    color: white;
+}
+#button110 {
+    background-color: chartreuse;
+    color: black;
+}
+#button111 {
+    background-color: midnightblue;
+    color: white;
+}
+#button112 {
+    background-color: peru;
+    color: black;
+}
+#button113 {
+    background-color: lightgray;
+    color: black;
+}
+#button114 {
+    background-color: firebrick;
+    color: white;
+}
+#button115 {
+    background-color: darkolivegreen;
+    color: white;
+}
+#button116 {
+    background-color: slateblue;
+    color: white;
+}
+#button117 {
+    background-color: orchid;
+    color: black;
+}
+#button118 {
+    background-color: salmon;
+    color: black;
+}
+#button119 {
+    background-color: aquamarine;
+    color: black;
+}
+#button120 {
+    background-color: dimgray;
+    color: white;
+}
+#button121 {
+    background-color: tomato;
+    color: white;
+}
+#button122 {
+    background-color: forestgreen;
+    color: white;
+}
+#button123 {
+    background-color: dodgerblue;
+    color: white;
+}
+#button124 {
+    background-color: darkgoldenrod;
+    color: white;
+}
+#button125 {
+    background-color: mediumslateblue;
+    color: white;
+}
+#button126 {
+    background-color: lightpink;
+    color: black;
+}
+#button127 {
+    background-color: palegoldenrod;
+    color: black;
+}
+#button128 {
+    background-color: peru;
+    color: black;
+}
+#button129 {
+    background-color: steelblue;
+    color: white;
+}
+#button130 {
+    background-color: indigo;
+    color: white;
+}
+#button131 {
+    background-color: darkmagenta;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+#button132 {
+    background-color: darkslateblue;
+    color: white;
+    font-family: "Courier New", monospace;
+    font-weight: normal;
+}
+#button133 {
+    background-color: chocolate;
+    color: white;
+    font-family: Georgia, serif;
+    font-weight: 600;
+}
+#button134 {
+    background-color: tomato;
+    color: black;
+    font-family: "Lucida Console", monospace;
+    font-weight: 700;
+}
+#button135 {
+    background-color: olive;
+    color: white;
+    font-family: Verdana, sans-serif;
+    font-weight: 500;
+}
+#button136 {
+    background-color: teal;
+    color: white;
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+}
+#button137 {
+    background-color: coral;
+    color: black;
+    font-family: Tahoma, sans-serif;
+    font-weight: 600;
+}
+#button138 {
+    background-color: steelblue;
+    color: white;
+    font-family: "Palatino Linotype", serif;
+    font-weight: 400;
+}
+#button139 {
+    background-color: crimson;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+}
+#button140 {
+    background-color: mediumseagreen;
+    color: black;
+    font-family: Impact, sans-serif;
+    font-weight: normal;
+}
+#button141 {
+    background-color: navy;
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+#button142 {
+    background-color: darkorange;
+    color: black;
+    font-family: "Franklin Gothic Medium", sans-serif;
+    font-weight: 600;
+}
+#button143 {
+    background-color: gold;
+    color: black;
+    font-family: Cambria, serif;
+    font-weight: bold;
+}
+#button144 {
+    background-color: orchid;
+    color: white;
+    font-family: "Courier", monospace;
+    font-weight: normal;
+}
+#button145 {
+    background-color: lightcoral;
+    color: black;
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: 500;
+}
+#button146 {
+    background-color: darkslategray;
+    color: white;
+    font-family: Garamond, serif;
+    font-weight: 600;
+}
+#button147 {
+    background-color: mediumvioletred;
+    color: white;
+    font-family: "Verdana", sans-serif;
+    font-weight: bold;
+}
+#button148 {
+    background-color: peru;
+    color: black;
+    font-family: "Lucida Sans", sans-serif;
+    font-weight: normal;
+}
+#button149 {
+    background-color: slateblue;
+    color: white;
+    font-family: "Trebuchet MS", sans-serif;
+    font-weight: 700;
+}
+#button150 {
+    background-color: black;
+    color: white;
+    font-family: "Times", serif;
+    font-weight: bold;
+}
+
+
+
 
 
 
