@@ -994,15 +994,28 @@ ol li {
     font-weight: bold;
 }
 #button200 {
+    background-color: BLACK;
+    color: red;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+}
+#button201 {
     background-color: seagreen;
     color: white;
     font-family: Arial, sans-serif;
     font-weight: bold;
+}#button202 {
+    background-color: grey;
+    color: grey;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
 }
-
-
-
-
+#button203 {
+    background-color: beige;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
 
 
 
